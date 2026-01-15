@@ -1,7 +1,11 @@
-jupyter-book<1.0
+myst-cli
+pydata-sphinx-theme
+jupyter
+jupyter-book
+ipykernel
 matplotlib
 numpy
 scipy
 control
-jupyter
-ipykernel
+scikit-learn
+ipython
