@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: Lab1 - PythonBasics
+    title: Lab 1 - Python Basics
+  - file: Lab2 - ODEs
+    title: Lab 2 - ODEs
+  - file: Lab3 - Intro_to_PythonControl
+    title: Lab 3 - Introduction to Python Control
+  - file: Lab4 - ClosedLoopControl
+    title: Lab 4 - Closed Loop Control
+  - file: Lab5 - LQR
+    title: Lab 5 - LQR
+  - file: Lab6 - TrajectoryTracking
+    title: Lab 6 - Trajectory Tracking
+  - file: Lab7 - Trajectory Generation
+    title: Lab 7 - Trajectory Generation
+  - file: Lab8 - Model Predictive Control
+    title: Lab 8 - Model Predictive Control
+  - file: Lab9 - Value Iteration Policy Iteration
+    title: Lab 9 - Value Iteration & Policy Iteration
+  - file: Lab10 - RL
+    title: Lab 10 - Reinforcement Learning
+  - file: MECH529_FinalProject_Acrobot
+    title: Final Project - Acrobot

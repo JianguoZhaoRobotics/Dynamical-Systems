@@ -1,0 +1,50 @@
+version: 1
+project:
+  title: MECH 529 Advanced Mechanical Systems
+  authors:
+    - name: Jianguo Zhao
+      affiliation: Department of Mechanical Engineering, Colorado State University
+  copyright: '2025'
+  github: YOUR_USERNAME/YOUR_REPO
+  thebe:
+    binder:
+      repo: YOUR_USERNAME/YOUR_REPO
+      provider: github
+      url: ''
+      ref: main
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: intro.md
+      title: Introduction to MECH 529 XXXX
+    - file: Lab1 - PythonBasics.ipynb
+      title: Lab 1 - Python Basics
+    - file: Lab2 - ODEs.ipynb
+      title: Lab 2 - ODEs
+    - file: Lab3 - Intro_to_PythonControl.ipynb
+      title: Lab 3 - Introduction to Python Control
+    - file: Lab4 - ClosedLoopControl.ipynb
+      title: Lab 4 - Closed Loop Control
+    - file: Lab5 - LQR.ipynb
+      title: Lab 5 - LQR
+    - file: Lab6 - TrajectoryTracking.ipynb
+      title: Lab 6 - Trajectory Tracking
+    - file: Lab7 - Trajectory Generation.ipynb
+      title: Lab 7 - Trajectory Generation
+    - file: Lab8 - Model Predictive Control.ipynb
+      title: Lab 8 - Model Predictive Control
+    - file: Lab9 - Value Iteration Policy Iteration.ipynb
+      title: Lab 9 - Value Iteration & Policy Iteration
+    - file: Lab10 - RL.ipynb
+      title: Lab 10 - Reinforcement Learning
+    - file: MECH529_FinalProject_Acrobot.ipynb
+      title: Final Project - Acrobot
+site:
+  options:
+    logo: ''
+    folders: true
+  template: book-theme

@@ -1,0 +1,7 @@
+jupyter-book<1.0
+matplotlib
+numpy
+scipy
+control
+jupyter
+ipykernel

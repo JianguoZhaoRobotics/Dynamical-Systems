@@ -1,0 +1,1 @@
+cd "c:\Users\jguoz\OneDrive - Colostate\Teaching\MECH 529 Advanced Mechanical Systems\2025 Fall\Lab\All Labs"; & "C:/Users/jguoz/OneDrive - Colostate/Teaching/MECH 529 Advanced Mechanical Systems/2025 Fall/Lab/All Labs/.venv/Scripts/jupyter-book.exe" 
