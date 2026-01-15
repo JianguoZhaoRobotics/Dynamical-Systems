@@ -4,25 +4,10 @@ Interactive lab materials and tutorials for MECH 529: Advanced Mechanical System
 
 ## 📚 View the Book
 
-**Access the published book online**: [MECH 529 Lab Materials](https://labs.jianguozhaorobotics.com)
+**Access the published book online**: [MECH 529 Lab Materials](https://github.com/JianguoZhaoRobotics/Dynamical-Systems/)
 
 The site is automatically built and deployed using GitHub Actions whenever changes are pushed to the main branch.
 
-## 🚀 Building Locally
-
-To build the MyST book locally:
-
-1. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-
-2. **Build the book**:
-```bash
-myst build --html
-```
-
-3. **View the book**: Open `_build/site/index.html` in your browser or run a local server
 
 ## 📖 Course Content
 
@@ -40,12 +25,6 @@ This course includes 11 interactive labs covering:
 10. **Reinforcement Learning** - Q-learning and neural networks
 11. **Final Project: Acrobot** - Control of underactuated systems
 
-## 🛠️ Technologies
-
-- [MyST Markdown](https://mystmd.org/) - Modern scientific publishing
-- [Python](https://www.python.org/) with scientific computing libraries
-- [Jupyter Notebooks](https://jupyter.org/) - Interactive computing
-- [GitHub Actions](https://github.com/features/actions) - Automated CI/CD
 
 ## 📝 Requirements
 
@@ -56,7 +35,6 @@ See `requirements.txt` for all dependencies. Key packages:
 - ipython
 - jupyter
 - control (python-control)
-- scikit-learn
 
 ## 👨‍🏫 Instructor
 
