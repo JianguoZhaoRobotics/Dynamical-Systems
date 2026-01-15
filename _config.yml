@@ -1,0 +1,45 @@
+# Book settings
+title: MECH 529 Advanced Mechanical Systems
+author: Prof. Jianguo Zhao, Colorado State University
+logo: ""
+copyright: "2025"
+
+# Force re-execution of notebooks on each build.
+execute:
+  execute_notebooks: off  # Turn off execution to speed up builds
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/JianguoZhaoRobotics/Dynamical-Systems
+  path_to_book: ""
+  branch: main
+
+# Add GitHub buttons to your book
+html:
+  use_issues_button: true
+  use_repository_button: true
+  home_page_in_navbar: false
+  baseurl: "https://jianguozhaorobotics.github.io/Dynamical-Systems"
+
+# Launch button configuration
+launch_buttons:
+  notebook_interface: "classic"
+  binderhub_url: ""
+  colab_url: "https://colab.research.google.com"
+
+sphinx:
+  config:
+    html_theme_options:
+      repository_url: https://github.com/JianguoZhaoRobotics/Dynamical-Systems
+      use_repository_button: true
+      use_issues_button: true
+      use_edit_page_button: false
