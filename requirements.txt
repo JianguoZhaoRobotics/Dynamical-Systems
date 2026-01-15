@@ -1,11 +1,11 @@
-myst-cli
-pydata-sphinx-theme
+jupyter-book>=0.15.0
 jupyter
-jupyter-book
-ipykernel
+jupyterlab
 matplotlib
 numpy
 scipy
 control
 scikit-learn
 ipython
+ipykernel
+pydata-sphinx-theme
