@@ -43,7 +43,7 @@ Each lab is provided as a Jupyter notebook that you can download and run in your
 ## Acknowledgements
 
 - Preparation of these lab materials was assisted by GitHub Copilot.
-- Some labs are adapted from or inspired by Jupyter notebooks created by Richard M. Murray for CDS 110 (Analysis and Design of Feedback Systems) at Caltech. See: https://fbswiki.org/wiki/index.php/CDS_110a:_Introduction_to_Control_Systems
+- Some labs are adapted from or inspired by [Jupyter notebooks](https://python-control.readthedocs.io/en/0.10.2/examples.html) created by Richard M. Murray at Caltech.
 
 ---
 
