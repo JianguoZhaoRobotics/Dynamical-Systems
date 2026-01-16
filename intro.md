@@ -1,6 +1,6 @@
 # MECH 529 Advanced Mechanical Systems
 
-Welcome to the MECH 529 Advanced Mechanical Systems laboratory course at Colorado State University.
+Welcome to the materials for MECH 529 Advanced Mechanical Systems course at Colorado State University.
 
 ## Course Overview
 
@@ -39,6 +39,11 @@ Each lab is provided as a Jupyter notebook that you can download and run in your
 - Basic knowledge of Python programming
 - Understanding of linear algebra and differential equations
 - Familiarity with control systems theory
+
+## Acknowledgements
+
+- Preparation of these lab materials was assisted by GitHub Copilot.
+- Some labs are adapted from or inspired by Jupyter notebooks created by Richard M. Murray for CDS 110 (Analysis and Design of Feedback Systems) at Caltech. See: https://fbswiki.org/wiki/index.php/CDS_110a:_Introduction_to_Control_Systems
 
 ---
 

@@ -5,10 +5,10 @@ project:
     - name: Jianguo Zhao
       affiliation: Department of Mechanical Engineering, Colorado State University
   copyright: '2025'
-  github: YOUR_USERNAME/YOUR_REPO
+  github: JianguoZhaoRobotics/Dynamical-Systems
   thebe:
     binder:
-      repo: YOUR_USERNAME/YOUR_REPO
+      repo: JianguoZhaoRobotics/Dynamical-Systems
       provider: github
       url: ''
       ref: main
@@ -20,7 +20,7 @@ project:
       output: exports/book.pdf
   toc:
     - file: intro.md
-      title: Introduction to MECH 529 XXXX
+      title: Introduction to MECH 529 Advanced Mechanical Systems
     - file: Lab1 - PythonBasics.ipynb
       title: Lab 1 - Python Basics
     - file: Lab2 - ODEs.ipynb
