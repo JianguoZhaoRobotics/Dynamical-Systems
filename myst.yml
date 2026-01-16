@@ -45,6 +45,6 @@ project:
       title: Final Project - Acrobot
 site:
   options:
-    logo: ''
+    logo: 'logo.png'
     folders: true
   template: book-theme
