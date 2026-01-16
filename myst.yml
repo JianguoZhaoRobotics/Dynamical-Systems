@@ -46,5 +46,6 @@ project:
 site:
   options:
     logo: 'Logo.png'
+    logo_width: 600px  # Add this line - adjust 200px as needed
     folders: true
   template: book-theme
